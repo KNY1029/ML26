@@ -1,0 +1,48 @@
+Chemical_Name,Original_SMILES,standardized_smi,label
+Propylene glycol,CC(O)CO,CC(O)CO,0
+Heptanal,CCCCCCC=O,CCCCCCC=O,1
+Isopropyl myristate,CCCCCCCCCCCCCC(=O)OC(C)C,CCCCCCCCCCCCCC(=O)OC(C)C,0
+4-Methylthio benzaldehyde,CSC1=CC=C(C=O)C=C1,CSc1ccc(C=O)cc1,0
+Heptyl butyrate,CCCCCCCOC(=O)CCC,CCCCCCCOC(=O)CCC,0
+Hydroxycitronellal,COC(=O)C1=C(C=CC=C1)N=CCC(C)CCCC(C)(C)O,COC(=O)c1ccccc1N=CCC(C)CCCC(C)(C)O,0
+Methyl caproate,CCCCCC(=O)OC,CCCCCC(=O)OC,0
+1-(2-Isopropylphenyl)-1-phenyle- thane (Mixture of isomers),CC(C)C1=CC=CC=C1C(C)C1=CC=CC=C1,CC(C)c1ccccc1C(C)c1ccccc1,0
+Benzyl salicylate,OC1=C(C=CC=C1)C(=O)OCC1=CC=CC=C1,O=C(OCc1ccccc1)c1ccccc1O,0
+Sodium dodecyl sulphate,[Na+].CCCCCCCCCCCCOS([O-])(=O)=O,CCCCCCCCCCCCOS(=O)(=O)[O-],1
+Sodium carbonate,[Na+].[Na+].[O-]C([O-])=O,O=C([O-])[O-],0
+1-Bromo-4-chlorobutane,ClCCCCBr,ClCCCCBr,0
+Heptanoic acid,CCCCCCC(O)=O,CCCCCCC(=O)O,1
+Hexadecanoic acid,CCCCCCCCCCCCCCCC(O)=O,CCCCCCCCCCCCCCCC(=O)O,0
+Dimethylsulfoxide,CS(C)=O,CS(C)=O,1
+di-n-Propyl disulfide,CCCSSCCC,CCCSSCCC,0
+Tris(hydroxymethyl)aminomethane,NC(CO)(CO)CO,NC(CO)(CO)CO,0
+Terpinyl acetate,CC(=O)OC(C)(C)C1CCC(C)=CC1,CC(=O)OC(C)(C)C1CC=C(C)CC1,0
+Nonanoic acid,CCCCCCCCC(O)=O,CCCCCCCCC(=O)O,1
+Octanoic acid,CCCCCCCC(O)=O,CCCCCCCC(=O)O,1
+Citronellol,CC(CCO)CCC=C(C)C,CC(C)=CCCC(C)CCO,0
+1-Bromohexane,CCCCCCBr,CCCCCCBr,1
+Butyl methacrylate,CCCCOC(=O)C(C)=C,C=C(C)C(=O)OCCCC,0
+Methyl palmitate,CCCCCCCCCCCCCCCC(=O)OC,CCCCCCCCCCCCCCCC(=O)OC,0
+Hexyl salicylate,CCCCCCOC(=O)C1=C(O)C=CC=C1,CCCCCCOC(=O)c1ccccc1O,0
+alpha-Terpineol,CC1=CCC(CC1)C(C)(C)O,CC1=CCC(C(C)(C)O)CC1,0
+Methyl laurate,CCCCCCCCCCCC(=O)OC,CCCCCCCCCCCC(=O)OC,0
+Dodecanol,CCCCCCCCCCCCO,CCCCCCCCCCCCO,0
+Tetradecanoic acid,CCCCCCCCCCCCCC(O)=O,CCCCCCCCCCCCCC(=O)O,0
+n-Pentanol,CCCCCO,CCCCCO,0
+Isopropanol,CC(C)O,CC(C)O,0
+Decanol,CCCCCCCCCCO,CCCCCCCCCCO,0
+Lactic acid,CC(O)C(O)=O,CC(O)C(=O)O,1
+1-Naphthalene acetic acid,OC(=O)CC1=C2C=CC=CC2=CC=C1,O=C(O)Cc1cccc2ccccc12,0
+Propylene glycol tertiary butyl ether,CC(O)COC(C)(C)C,CC(O)COC(C)(C)C,0
+Geraniol,CC(C)=CCCC(C)=CCO,CC(C)=CCCC(C)=CCO,0
+Butyl benzoate,CCCCOC(=O)C1=CC=CC=C1,CCCCOC(=O)c1ccccc1,0
+"2-Isopropyl-2-isobutyl-1,3-dime- thoxypropane",COCC(COC)(CC(C)C)C(C)C,COCC(COC)(CC(C)C)C(C)C,1
+1-(Spiro[4.5]dec-7-en-7-yl)pent-4- en-1-one (mixture of isomers),C=CCCC(=O)C1=CCCC2(CCCC2)C1,C=CCCC(=O)C1=CCCC2(CCCC2)C1,0
+"3,4-Dimethyl-1H-pyrazole",CC1=CNN=C1C,Cc1c[nH]nc1C,1
+Triethanolamine,OCCN(CCO)CCO,OCCN(CCO)CCO,0
+Decanoic acid,CCCCCCCCCC(O)=O,CCCCCCCCCC(=O)O,1
+Tetradecanol,CCCCCCCCCCCCCCO,CCCCCCCCCCCCCCO,0
+Ethylenediamine tetraacetic acid disodium salt,[Na+].[Na+].OC(=O)CN(CCN(CC(O)=O)CC([O-])=O)CC([O-])=O,O=C([O-])CN(CCN(CC(=O)[O-])CC(=O)O)CC(=O)O,0
+Isopropyl palmitate,CCCCCCCCCCCCCCCC(=O)OC(C)C,CCCCCCCCCCCCCCCC(=O)OC(C)C,0
+1-Octanol,CCCCCCCCO,CCCCCCCCO,1
+1-Hexanol,CCCCCCO,CCCCCCO,1

@@ -1,0 +1,4 @@
+model,k,param,train,cv
+SVM,15,"C=3, ker=rbf",0.897,0.846
+MLP,50,"h=5, act=logistic",0.923,0.821
+LogReg,10,-,0.872,0.793
